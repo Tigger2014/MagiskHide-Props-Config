@@ -3,7 +3,7 @@
 # MagiskHide Props Config
 # By Didgeridoohan @ XDA Developers
 
-CONFFINGERPRINT=""
+CONFFINGERPRINT="samsung/star2ltexx/star2lte:8.0.0/R16NW/G965FXXU1ARCC:user/release-keys"
 
 CONFPROPFILES=false
 
